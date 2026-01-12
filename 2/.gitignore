@@ -18,7 +18,7 @@ log/
 *.dockerignore
 
 # IDE
-.idea/
+../.idea/
 .vscode/
 *.swp
 *.swo
