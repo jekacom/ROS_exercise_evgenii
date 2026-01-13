@@ -2,7 +2,7 @@
 import os
 import rclpy
 from rclpy.node import Node
-from std_masgs.msg import String
+from std_msgs.msg import String
 
 # Fill in something for msg type imports
 # from duckietown_msgs.msg import SOMETHING
